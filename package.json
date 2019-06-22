@@ -1,7 +1,7 @@
 {
   "name": "git-merge",
   "main": "./lib/git-merge",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Work with atom/github to provide a similar merge option to the status bar",
   "keywords": [],
   "repository": "https://github.com/AstrickHarren/git-merge",
