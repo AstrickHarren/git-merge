@@ -1,10 +1,9 @@
 {
   "name": "git-merge",
   "main": "./lib/git-merge",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Work with atom/github to provide a similar merge option to the status bar",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/AstrickHarren/git-merge",
   "license": "MIT",
   "engines": {
@@ -13,7 +12,6 @@
   "dependencies": {
     "github": ">=0.29.0"
   },
-
   "consumedServices": {
     "status-bar": {
       "versions": {
