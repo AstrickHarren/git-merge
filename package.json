@@ -1,16 +1,17 @@
 {
-  "name": "playground",
-  "main": "./lib/playground",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "name": "git-merge",
+  "main": "./lib/git-merge",
+  "version": "0.0.1",
+  "description": "Work with atom/github to provide a similar merge option to the status bar",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/playground",
+  "repository": "https://github.com/AstrickHarren/git-merge",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "github": ">=0.29.0"
   },
 
   "consumedServices": {

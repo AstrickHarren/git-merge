@@ -1,5 +1,5 @@
-# playground package
+# Git-Merge
 
-A short description of your package.
+Work with atom/github to provide a similar merge option to the status bar.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![A screenshot of your package](Screenshot.png)
