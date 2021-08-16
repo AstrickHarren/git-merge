@@ -9,3 +9,7 @@
 
 ##0.3.1 - Fixes
 * Fixed branch names including dashes split
+
+## 0.4.2 - Bug Fix
+* Uncaught TypeError: Cannot read property 'destroy' of null
+* https://github.com/AstrickHarren/git-merge/issues/5
